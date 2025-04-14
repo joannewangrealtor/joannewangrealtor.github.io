@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fad42212.css",
+    "main.js": "/static/js/main.9d085f59.js",
+    "static/media/services-selling-bg.jpg": "/static/media/services-selling-bg.0b060ac90706350f3a5c.jpg",
+    "index.html": "/index.html",
+    "main.fad42212.css.map": "/static/css/main.fad42212.css.map",
+    "main.9d085f59.js.map": "/static/js/main.9d085f59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fad42212.css",
+    "static/js/main.9d085f59.js"
+  ]
+}
