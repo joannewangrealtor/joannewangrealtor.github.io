@@ -56,7 +56,7 @@ const languageContent = {
     listings_view_more: 'VIEW MORE',
     
     // Social.js (社交部分)
-    social_title: 'Broker',
+    social_title: 'Sales Representative',
     social_follow_btn: 'Follow Me',
     social_contact_direct: 'Direct: (613) 301-0446',
     social_contact_office: 'Office: (613) 829-1818',
